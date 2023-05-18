@@ -1,1 +1,2 @@
 # TFG-DAM-Daniel-Sanz
+Este trabajo se trata de una implementación de un tipo de sistema de gestión empresarial, específicamente trataremos con una empresa y intentaremos solventar un problema que lleva sobrellevando durante muchos años, y este es el excesivo tiempo utilizado cada vez que la empresa quiere realizar pedidos a algunos de sus proveedores. Por lo tanto intentaremos facilitar la gestión de proveedores, artículos y pedidos de la empresa. 
