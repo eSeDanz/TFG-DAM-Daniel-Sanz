@@ -44,7 +44,7 @@ public class ContenidoControl {
     private final ContenidoDAO CDAO;
     private final PedidoDAO PDAO;
     private final ProveedorDAO PRODAO;
-    private final String CLIENTE="Daniel Sanz Ferrer", RUTA="C:\\Users\\Dani\\Documents\\" , CORREO="11886285@ieselgrao.org", CONTRA="04061986";
+    private final String CLIENTE="Daniel Sanz Ferrer", RUTA="C:\\Users\\Dani\\Documents\\" , CORREO="xxxxxxxx@ieselgrao.org", CONTRA="xxxxxxxx";
     private Contenido cont;
     private ListaContenido listaCont;
     private DefaultTableModel modeloTabla;
