@@ -134,6 +134,7 @@ public class VistaAuditoria extends javax.swing.JInternalFrame {
 
     private void jButtonBuscarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonBuscarActionPerformed
         listarArticulos();
+        jTextFieldDescripcionAuditoria.setText("");
     }//GEN-LAST:event_jButtonBuscarActionPerformed
 
     private void listarArticulos() {
